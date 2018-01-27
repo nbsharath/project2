@@ -1,4 +1,4 @@
-# Front end start bean project 
+# Web application front end Bean.  
 The project provides intial setup that contains gulp tasks and folder structure that can be used for web application developemet. 
 
 ## The gulp tasks include:
